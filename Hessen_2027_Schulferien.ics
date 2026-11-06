@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+CREATED:20261106T083100Z
+LAST-MODIFIED:20261106T083100Z
+DTSTAMP:20261106T083100Z
+SUMMARY:Osterferien Hessen 2027
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270403
+URL;VALUE=URI:https://www.schulferien.eu/hessen/ferientermine-he/?utm_sour
+ ce=ical&utm_campaign=kalender-abo
+DESCRIPTION: Alle Ferientermine, Brueckentage und Ausflugsziele: https://w
+ ww.schulferien.eu/hessen/ferientermine-he/?utm_source=ical&utm_campaign=k
+ alender-abo (Alle Angaben ohne Gewähr.)
+TRANSP:TRANSPARENT
+UID:Osterferien-Hessen-2027-20270322-schulferien.eu
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261106T083100Z
+LAST-MODIFIED:20261106T083100Z
+DTSTAMP:20261106T083100Z
+SUMMARY:Sommerferien Hessen 2027
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270807
+URL;VALUE=URI:https://www.schulferien.eu/hessen/ferientermine-he/?utm_sour
+ ce=ical&utm_campaign=kalender-abo
+DESCRIPTION: Alle Ferientermine, Brueckentage und Ausflugsziele: https://w
+ ww.schulferien.eu/hessen/ferientermine-he/?utm_source=ical&utm_campaign=k
+ alender-abo (Alle Angaben ohne Gewähr.)
+TRANSP:TRANSPARENT
+UID:Sommerferien-Hessen-2027-20270628-schulferien.eu
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261106T083100Z
+LAST-MODIFIED:20261106T083100Z
+DTSTAMP:20261106T083100Z
+SUMMARY:Herbstferien Hessen 2027
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271017
+URL;VALUE=URI:https://www.schulferien.eu/hessen/ferientermine-he/?utm_sour
+ ce=ical&utm_campaign=kalender-abo
+DESCRIPTION: Alle Ferientermine, Brueckentage und Ausflugsziele: https://w
+ ww.schulferien.eu/hessen/ferientermine-he/?utm_source=ical&utm_campaign=k
+ alender-abo (Alle Angaben ohne Gewähr.)
+TRANSP:TRANSPARENT
+UID:Herbstferien-Hessen-2027-20271004-schulferien.eu
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20261106T083100Z
+LAST-MODIFIED:20261106T083100Z
+DTSTAMP:20261106T083100Z
+SUMMARY:Weihnachtsferien Hessen 2027/2028
+DTSTART;VALUE=DATE:20271223
+DTEND;VALUE=DATE:20280112
+URL;VALUE=URI:https://www.schulferien.eu/hessen/ferientermine-he/?utm_sour
+ ce=ical&utm_campaign=kalender-abo
+DESCRIPTION: Alle Ferientermine, Brueckentage und Ausflugsziele: https://w
+ ww.schulferien.eu/hessen/ferientermine-he/?utm_source=ical&utm_campaign=k
+ alender-abo (Alle Angaben ohne Gewähr.)
+TRANSP:TRANSPARENT
+UID:Weihnachtsferien-Hessen-2027-2028-20271223-schulferien.eu
+END:VEVENT
+END:VCALENDAR
