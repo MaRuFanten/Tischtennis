@@ -19,9 +19,7 @@ DTSTAMP:20261106T083100Z
 SUMMARY:Sommerferien Hessen 2026
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260808
-DESCRIPTION: Alle Ferientermine, Brueckentage und Ausflugsziele: https://w
- ww.schulferien.eu/hessen/ferientermine-he/?utm_source=ical&utm_campaign=k
- alender-abo 
+DESCRIPTION: Alle Ferientermine, Brueckentage 
 UID:Sommerferien-Hessen-2026-20260629-schulferien.eu
 END:VEVENT
 BEGIN:VEVENT
@@ -31,9 +29,7 @@ DTSTAMP:20261106T083100Z
 SUMMARY:Herbstferien Hessen 2026
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261018
-DESCRIPTION: Alle Ferientermine, Brueckentage und Ausflugsziele: https://w
- ww.schulferien.eu/hessen/ferientermine-he/?utm_source=ical&utm_campaign=k
- alender-abo
+DESCRIPTION: Alle Ferientermine, Brueckentage
 UID:Herbstferien-Hessen-2026-20261005-schulferien.eu
 END:VEVENT
 BEGIN:VEVENT
@@ -43,10 +39,7 @@ DTSTAMP:20261106T083100Z
 SUMMARY:Weihnachtsferien Hessen 2026/2027
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20270113
-DESCRIPTION: Alle Ferientermine, Brueckentage und Ausflugsziele: https://w
- ww.schulferien.eu/hessen/ferientermine-he/?utm_source=ical&utm_campaign=k
- alender-abo (Alle Angaben ohne Gewähr.)
-
+DESCRIPTION: Alle Ferientermine, Brueckentage (Alle Angaben ohne Gewähr.)
 UID:Weihnachtsferien-Hessen-2026-2027-20261223-schulferien.eu
 END:VEVENT
 END:VCALENDAR
